@@ -94,7 +94,7 @@
 @supports (position: sticky) or (position: -webkit-sticky) {
   @media only screen and (min-width: 801px) {
     .site-header {
-      background: #fff;
+      background:rgb(63, 59, 59);
       position: -webkit-sticky;
       position: sticky;
       top:0;
